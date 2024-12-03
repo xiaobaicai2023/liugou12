@@ -7,19 +7,22 @@ uniapp开发适配支持安卓，ios，微信小程序 ，h5，公众号
 
 # 软件界面
 
-![extending-a-theme](/01.png)
-![extending-a-theme](/02.png)
-![extending-a-theme](/03.png)
-![extending-a-theme](/04.png)
-![extending-a-theme](/05.png)
-![extending-a-theme](/06.png)
-![extending-a-theme](/07.png)
-![extending-a-theme](/08.png)
-![extending-a-theme](/09.png)
-![extending-a-theme](/10.png)
-![extending-a-theme](/11.png)
-![extending-a-theme](/12.png)
-![extending-a-theme](/13.png)
-![extending-a-theme](/xiaomage.jpg)
+![01](https://github.com/user-attachments/assets/bbe115c5-1fb5-4128-afff-58b0512369b7)
+![02](https://github.com/user-attachments/assets/e93fc9fb-96ff-461c-83d9-55735c744d87)
+![03](https://github.com/user-attachments/assets/a6d8d53f-a53d-49e3-85f3-1b14e81ceb2e)
+![04](https://github.com/user-attachments/assets/ff1db2b4-34a6-45b6-815b-d759f3502d6a)
+![05](https://github.com/user-attachments/assets/9f1cb687-8aee-4123-9a5e-dff9eacc51cb)
+![06](https://github.com/user-attachments/assets/dad31cf2-2207-4143-8ddf-573fff23db78)
+![07](https://github.com/user-attachments/assets/f463c921-6c2a-4d96-869f-0740d33ea692)
+![08](https://github.com/user-attachments/assets/a8e5bd4c-f87c-458f-81d0-798f7eed11ba)
+![09](https://github.com/user-attachments/assets/e8f09935-80a0-43a0-b44d-facd7161981d)
+![10](https://github.com/user-attachments/assets/35fa46ae-8163-4fe4-b596-06b9fa1a6492)
+![11](https://github.com/user-attachments/assets/acbc1d42-c76e-4f2e-9e73-787f6196bb90)
+![12](https://github.com/user-attachments/assets/966ba6ba-5430-490b-922c-121f06651280)
+![13](https://github.com/user-attachments/assets/c9a0a3ec-6f0e-4c2e-a372-9643c948f14c)
+![xiaomage](https://github.com/user-attachments/assets/ece4a783-bbc9-43ae-b292-78a0c6a7611b)
+
+
+
 
 
