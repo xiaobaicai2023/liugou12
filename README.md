@@ -20,7 +20,15 @@ uniapp开发适配支持安卓，ios，微信小程序 ，h5，公众号
 ![11](https://github.com/user-attachments/assets/acbc1d42-c76e-4f2e-9e73-787f6196bb90)
 ![12](https://github.com/user-attachments/assets/966ba6ba-5430-490b-922c-121f06651280)
 ![13](https://github.com/user-attachments/assets/c9a0a3ec-6f0e-4c2e-a372-9643c948f14c)
-![xiaomage](https://github.com/user-attachments/assets/ece4a783-bbc9-43ae-b292-78a0c6a7611b)
+
+
+
+# 产品体验
+
+如果你对本项目感兴趣，项目合作、体验请联系微信
+
+![wx](https://github.com/user-attachments/assets/12e10771-8d4c-4f27-a98c-955e0b8e2daf)
+
 
 
 
